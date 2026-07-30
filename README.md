@@ -218,9 +218,10 @@ From the `frontend` directory:
 
 This project is developed by:
 
-| Name | Role | Contact |
-| --- | --- | --- |
-| _Add team member_ | _Add role_ | _Add email or profile_ |
+| Name | Role |
+| M Adam Abdurahman | Backend & Frontend | 
+| Steven Lie Wibowo | Data Preprocessing | 
+| Muhammad Zaki Alfadilah | Modelling | 
 
 ## License
 
