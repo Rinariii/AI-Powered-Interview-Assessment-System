@@ -1,0 +1,45 @@
+# Virtual environment
+venv/
+.venv/
+
+# Temporary files
+temp/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Build artifacts
+build/
+dist/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Cache
+__pycache__
+
+# Environment variables
+.env*
+!.env.example

@@ -1,0 +1,21 @@
+# Local environment files (never commit credentials)
+.env*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Frontend
+node_modules/
+dist/
+coverage/
+
+# Local artifacts
+temp/
+temp_uploads/
+*.log
+.DS_Store
+Thumbs.db
